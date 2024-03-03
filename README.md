@@ -28,9 +28,9 @@
 
 <h3 align="center"> 📫 Contact </h3>
 <div align="center">
-<a href="https://insu3160.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://insu3160.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHubPage-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://www.instagram.com/insu_1004/" target="_blank"><img src="https://img.shields.io/badge/insu_1004-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:is23193160@gmail.com"><img src="https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:is23193160@gmail.com"/></a>
+<a href="mailto:is23193160@gmail.com"><img src="https://img.shields.io/badge/is23193160@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:is23193160@gmail.com"/></a>
 </div>
 
 <br>
